@@ -1,0 +1,1 @@
+{"name":"dosje-dashboard","version":"1.0.0","type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build"},"dependencies":{"@vitejs/plugin-react":"latest","vite":"latest","react":"latest","react-dom":"latest","recharts":"latest","lucide-react":"latest","tailwindcss":"^3.4.17","postcss":"latest","autoprefixer":"latest"}}
